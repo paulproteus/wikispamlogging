@@ -1,0 +1,7 @@
+This is a project to create a plugin for MediaWiki that logs
+all edit attempts, with the aim of creating a training corpus
+that can be used for research.
+
+Authors:
+
+* Asheesh Laroia
