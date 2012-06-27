@@ -2,6 +2,10 @@ This is a project to create a plugin for MediaWiki that logs
 all edit attempts, with the aim of creating a training corpus
 that can be used for research.
 
+License:
+* Code within this can be re-used under GPLv2 or later.
+  See: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
 Authors:
 
 * Asheesh Laroia
